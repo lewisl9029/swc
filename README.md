@@ -95,3 +95,5 @@ documentation useful ([ARCHITECTURE.md](ARCHITECTURE.md)).
 SWC is primarily distributed under the terms of the Apache License (Version 2.0).
 
 See [LICENSE](LICENSE) for details.
+
+<!-- Test -->
